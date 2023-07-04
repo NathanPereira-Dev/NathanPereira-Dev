@@ -1,5 +1,5 @@
 ## Olá, eu sou o Nathan Pereira 👋
-### Programador e futuro estudante de Ciência da Computação!
+### Futuro estudante de Ciência da Computação!
 
 <div>
   <a href="https://github.com/NathanPereira-Dev">
