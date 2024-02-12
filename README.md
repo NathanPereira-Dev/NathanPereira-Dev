@@ -27,8 +27,4 @@
 ##
 
 
-![Snake animation](https://github.com/NathanPereira-Dev/NathanPereira-Dev/blob/output/github-contribution-grid-snake.svg)
-
-
-
 
